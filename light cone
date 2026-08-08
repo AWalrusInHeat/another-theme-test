@@ -180,7 +180,7 @@
   "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/AWalrusInHeat/another-theme-test/refs/heads/main/whyisn'tthisworking.png",
-      "alpha": 0
+      "alpha": 1
     },
     "plus": {
         "version": 0,
