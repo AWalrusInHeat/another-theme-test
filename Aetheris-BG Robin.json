@@ -1,6 +1,6 @@
 {
-  "name": "Aetheris BG",
-  "description": "A Comfy Dark Purple Theme",
+  "name": "Aetheris BG Robin",
+  "description": "Because Robin",
   "authors": [
       {
           "name": "AsterionVT",
@@ -179,7 +179,7 @@
   },
   "background": {
       "blur": 0,
-      "url": "https://raw.githubusercontent.com/LYNK-INCUU/Cosmicka/refs/heads/main/wp/wp5235979-blue-aesthetic-computer-wallpapers.png",
+      "url": "https://raw.githubusercontent.com/AWalrusInHeat/themes/refs/heads/main/147989238_p0.png",
       "alpha": 1
     },
     "plus": {
